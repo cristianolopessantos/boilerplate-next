@@ -1,5 +1,5 @@
 import type { Preview } from '@storybook/react'
-import GlobalStyles from '../styles/global'
+import GlobalStyles from '../src/styles/global'
 import React from 'react';
 
 const withThemeProvider = (Story, context) => {
